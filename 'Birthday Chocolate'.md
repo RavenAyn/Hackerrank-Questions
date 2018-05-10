@@ -31,7 +31,7 @@ def solve(n, s, d, m):
     checker = 0 
     for i in range(n):
         seg = []
-        j=i-1
+        j = i-1
         while len(seg) < m and j < n-1:
             j += 1
             seg.append(s[j])
