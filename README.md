@@ -1,3 +1,1 @@
-# Practice-Questions-easy-
-
-Solutions to a couple of beginning questions from Hackerrank.
+The beginning of a collection of solutions to hackerrank practise problems. All are done in python 3, and are mostly here for two super cool, totally amazing, (well established...comparitvely), goddessly software developers to check out and make sure I'm not dying in terms of style and general everything. 
