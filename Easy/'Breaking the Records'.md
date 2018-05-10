@@ -15,7 +15,7 @@ Game  Score  Minimum  Maximum   Min Max
  
 Given Maria's array of _scores_ for a season of _n_ games, find and print the number of times she breaks her records for most and least points scored during the season.
 
-Input Format
+#### Input Format
 
 The first line contains an integer _n_, the number of games. 
 The second line contains _n_ space-separated integers describing the respective values of _score[0], ... , score[n-1]_
